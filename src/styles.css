@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.three-lines {
+  display: "-webkit-box" !important;
+  overflow: "hidden" !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: "vertical" !important;
+}
